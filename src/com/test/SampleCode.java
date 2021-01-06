@@ -6,7 +6,7 @@ public class SampleCode {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.print(false);
-		System.out.println("test");
+		System.out.println("test pull request");
 
 	}
 
